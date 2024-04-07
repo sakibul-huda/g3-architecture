@@ -1,0 +1,36 @@
+@media only screen and (max-width:668px) {
+    
+    nav{
+        flex-direction: column;
+        /* justify-content: center; */
+        /* align-items:center; */
+    }
+    
+    nav ul
+{
+    gap: 20px;
+   padding-left: 0px;
+    
+}
+    .banner img{
+        width: 80%;
+       
+    }
+
+    
+    .banner-title
+{
+    width: 80%;
+    font-size: 32px;
+    margin-top: 80px ;
+    margin-bottom: 0px;
+}
+
+.banner-description
+{
+    width: 80%;
+}
+
+
+    
+}
